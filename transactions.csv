@@ -1,0 +1,821 @@
+date,description,amount,category,type,month
+2024-01-01,Salary Credit,65000,Income,credit,2024-01
+2024-01-01,Landlord transfer,18000,Rent,debit,2024-01
+2024-01-08,Zepto,930,Groceries,debit,2024-01
+2024-01-24,BigBasket,1100,Groceries,debit,2024-01
+2024-01-22,More Supermarket,750,Groceries,debit,2024-01
+2024-01-03,More Supermarket,750,Groceries,debit,2024-01
+2024-01-14,BigBasket,1120,Groceries,debit,2024-01
+2024-01-01,BigBasket,950,Groceries,debit,2024-01
+2024-01-07,Zepto,710,Groceries,debit,2024-01
+2024-01-20,Zomato,430,Food and Dining,debit,2024-01
+2024-01-18,Swiggy,280,Food and Dining,debit,2024-01
+2024-01-23,Truffles,280,Food and Dining,debit,2024-01
+2024-01-23,Brahmin's Coffee Bar,390,Food and Dining,debit,2024-01
+2024-01-14,Swiggy,70,Food and Dining,debit,2024-01
+2024-01-15,Brahmin's Coffee Bar,90,Food and Dining,debit,2024-01
+2024-01-09,Byg Brewski,270,Food and Dining,debit,2024-01
+2024-01-28,Zomato,200,Food and Dining,debit,2024-01
+2024-01-25,Byg Brewski,400,Food and Dining,debit,2024-01
+2024-01-06,Truffles,210,Food and Dining,debit,2024-01
+2024-01-14,Meghana Foods,140,Food and Dining,debit,2024-01
+2024-01-09,Swiggy,570,Food and Dining,debit,2024-01
+2024-01-07,Byg Brewski,320,Food and Dining,debit,2024-01
+2024-01-04,Starbucks,180,Coffee & Snacks,debit,2024-01
+2024-01-13,Starbucks,90,Coffee & Snacks,debit,2024-01
+2024-01-12,Third Wave Coffee,150,Coffee & Snacks,debit,2024-01
+2024-01-20,Third Wave Coffee,190,Coffee & Snacks,debit,2024-01
+2024-01-26,Starbucks,110,Coffee & Snacks,debit,2024-01
+2024-01-24,Chaayos,200,Coffee & Snacks,debit,2024-01
+2024-01-18,Starbucks,140,Coffee & Snacks,debit,2024-01
+2024-01-30,Chaayos,160,Coffee & Snacks,debit,2024-01
+2024-01-03,Cafe Coffee Day,140,Coffee & Snacks,debit,2024-01
+2024-01-10,Cafe Coffee Day,290,Coffee & Snacks,debit,2024-01
+2024-01-29,Third Wave Coffee,180,Coffee & Snacks,debit,2024-01
+2024-01-19,Blue Tokai,120,Coffee & Snacks,debit,2024-01
+2024-01-23,Starbucks,230,Coffee & Snacks,debit,2024-01
+2024-01-02,Blue Tokai,110,Coffee & Snacks,debit,2024-01
+2024-01-03,Ola,240,Transport,debit,2024-01
+2024-01-28,Uber,40,Transport,debit,2024-01
+2024-01-13,Rapido,90,Transport,debit,2024-01
+2024-01-15,Rapido,240,Transport,debit,2024-01
+2024-01-06,Rapido,290,Transport,debit,2024-01
+2024-01-12,Ola,240,Transport,debit,2024-01
+2024-01-22,Rapido,210,Transport,debit,2024-01
+2024-01-23,Uber,190,Transport,debit,2024-01
+2024-01-20,Ola,70,Transport,debit,2024-01
+2024-01-18,Ola,150,Transport,debit,2024-01
+2024-01-06,Namma Metro,170,Transport,debit,2024-01
+2024-01-13,Rapido,330,Transport,debit,2024-01
+2024-01-30,BMTC,250,Transport,debit,2024-01
+2024-01-08,Rapido,40,Transport,debit,2024-01
+2024-01-27,Uber,250,Transport,debit,2024-01
+2024-01-08,Uber,180,Transport,debit,2024-01
+2024-01-26,Rapido,150,Transport,debit,2024-01
+2024-01-13,Rapido,280,Transport,debit,2024-01
+2024-01-07,Amazon Prime,220,Subscriptions,debit,2024-01
+2024-01-07,YouTube Premium,220,Subscriptions,debit,2024-01
+2024-01-13,YouTube Premium,180,Subscriptions,debit,2024-01
+2024-01-09,Flipkart,950,Shopping,debit,2024-01
+2024-01-08,Nykaa,1470,Shopping,debit,2024-01
+2024-01-09,Gym Monthly,890,Health & Fitness,debit,2024-01
+2024-01-14,Gym Monthly,460,Health & Fitness,debit,2024-01
+2024-01-13,Apollo Pharmacy,540,Health & Fitness,debit,2024-01
+2024-01-08,PharmEasy,270,Health & Fitness,debit,2024-01
+2024-01-16,BESCOM,720,Utilities,debit,2024-01
+2024-01-25,BESCOM,1020,Utilities,debit,2024-01
+2024-01-28,BESCOM,1100,Utilities,debit,2024-01
+2024-01-21,PVR Cinemas,680,Entertainment,debit,2024-01
+2024-02-01,Salary Credit,65000,Income,credit,2024-02
+2024-02-01,Landlord transfer,18000,Rent,debit,2024-02
+2024-02-01,Housing Society,18000,Rent,debit,2024-02
+2024-02-13,More Supermarket,670,Groceries,debit,2024-02
+2024-02-15,More Supermarket,870,Groceries,debit,2024-02
+2024-02-09,More Supermarket,1110,Groceries,debit,2024-02
+2024-02-28,BigBasket,790,Groceries,debit,2024-02
+2024-02-22,BigBasket,1110,Groceries,debit,2024-02
+2024-02-22,More Supermarket,280,Groceries,debit,2024-02
+2024-02-25,Swiggy Instamart,960,Groceries,debit,2024-02
+2024-02-25,Swiggy Instamart,820,Groceries,debit,2024-02
+2024-02-10,CTR,310,Food and Dining,debit,2024-02
+2024-02-06,CTR,360,Food and Dining,debit,2024-02
+2024-02-01,Truffles,70,Food and Dining,debit,2024-02
+2024-02-29,Truffles,320,Food and Dining,debit,2024-02
+2024-02-09,Brahmin's Coffee Bar,400,Food and Dining,debit,2024-02
+2024-02-25,Swiggy,570,Food and Dining,debit,2024-02
+2024-02-17,Zomato,270,Food and Dining,debit,2024-02
+2024-02-28,Truffles,230,Food and Dining,debit,2024-02
+2024-02-10,Byg Brewski,270,Food and Dining,debit,2024-02
+2024-02-21,Brahmin's Coffee Bar,490,Food and Dining,debit,2024-02
+2024-02-20,Swiggy,400,Food and Dining,debit,2024-02
+2024-02-12,Blue Tokai,150,Coffee & Snacks,debit,2024-02
+2024-02-18,Cafe Coffee Day,210,Coffee & Snacks,debit,2024-02
+2024-02-01,Cafe Coffee Day,190,Coffee & Snacks,debit,2024-02
+2024-02-11,Chaayos,240,Coffee & Snacks,debit,2024-02
+2024-02-01,Starbucks,140,Coffee & Snacks,debit,2024-02
+2024-02-12,Third Wave Coffee,160,Coffee & Snacks,debit,2024-02
+2024-02-08,Starbucks,160,Coffee & Snacks,debit,2024-02
+2024-02-08,Cafe Coffee Day,90,Coffee & Snacks,debit,2024-02
+2024-02-03,Starbucks,200,Coffee & Snacks,debit,2024-02
+2024-02-24,Chaayos,200,Coffee & Snacks,debit,2024-02
+2024-02-27,Starbucks,180,Coffee & Snacks,debit,2024-02
+2024-02-25,Cafe Coffee Day,170,Coffee & Snacks,debit,2024-02
+2024-02-25,Blue Tokai,100,Coffee & Snacks,debit,2024-02
+2024-02-22,Namma Metro,180,Transport,debit,2024-02
+2024-02-18,Ola,190,Transport,debit,2024-02
+2024-02-09,BMTC,140,Transport,debit,2024-02
+2024-02-28,BMTC,200,Transport,debit,2024-02
+2024-02-14,Ola,260,Transport,debit,2024-02
+2024-02-18,Ola,410,Transport,debit,2024-02
+2024-02-23,Rapido,240,Transport,debit,2024-02
+2024-02-13,Rapido,250,Transport,debit,2024-02
+2024-02-15,BMTC,210,Transport,debit,2024-02
+2024-02-15,Uber,40,Transport,debit,2024-02
+2024-02-08,Ola,220,Transport,debit,2024-02
+2024-02-03,Rapido,230,Transport,debit,2024-02
+2024-02-01,BMTC,470,Transport,debit,2024-02
+2024-02-18,Ola,200,Transport,debit,2024-02
+2024-02-19,Ola,250,Transport,debit,2024-02
+2024-02-01,Uber,220,Transport,debit,2024-02
+2024-02-23,Uber,100,Transport,debit,2024-02
+2024-02-03,Netflix,220,Subscriptions,debit,2024-02
+2024-02-28,Amazon Prime,220,Subscriptions,debit,2024-02
+2024-02-03,Spotify,220,Subscriptions,debit,2024-02
+2024-02-22,Meesho,470,Shopping,debit,2024-02
+2024-02-07,Nykaa,2320,Shopping,debit,2024-02
+2024-02-05,Nykaa,240,Shopping,debit,2024-02
+2024-02-16,PharmEasy,780,Health & Fitness,debit,2024-02
+2024-02-26,1mg,1260,Health & Fitness,debit,2024-02
+2024-02-26,1mg,300,Health & Fitness,debit,2024-02
+2024-02-07,Cult.fit,430,Health & Fitness,debit,2024-02
+2024-02-22,BWSSB,910,Utilities,debit,2024-02
+2024-02-14,Steam,550,Entertainment,debit,2024-02
+2024-02-15,BookMyShow,230,Entertainment,debit,2024-02
+2024-03-01,Salary Credit,65000,Income,credit,2024-03
+2024-03-01,Housing Society,18000,Rent,debit,2024-03
+2024-03-01,Housing Society,18000,Rent,debit,2024-03
+2024-03-24,Swiggy Instamart,890,Groceries,debit,2024-03
+2024-03-26,BigBasket,620,Groceries,debit,2024-03
+2024-03-08,Zepto,1110,Groceries,debit,2024-03
+2024-03-07,More Supermarket,640,Groceries,debit,2024-03
+2024-03-15,Zepto,740,Groceries,debit,2024-03
+2024-03-14,Zepto,960,Groceries,debit,2024-03
+2024-03-09,D-Mart,550,Groceries,debit,2024-03
+2024-03-08,BigBasket,850,Groceries,debit,2024-03
+2024-03-26,Byg Brewski,550,Food and Dining,debit,2024-03
+2024-03-28,Brahmin's Coffee Bar,110,Food and Dining,debit,2024-03
+2024-03-04,Zomato,380,Food and Dining,debit,2024-03
+2024-03-21,Brahmin's Coffee Bar,390,Food and Dining,debit,2024-03
+2024-03-27,Zomato,470,Food and Dining,debit,2024-03
+2024-03-03,Byg Brewski,160,Food and Dining,debit,2024-03
+2024-03-28,Swiggy,150,Food and Dining,debit,2024-03
+2024-03-06,CTR,430,Food and Dining,debit,2024-03
+2024-03-16,CTR,390,Food and Dining,debit,2024-03
+2024-03-07,Byg Brewski,390,Food and Dining,debit,2024-03
+2024-03-13,Zomato,400,Food and Dining,debit,2024-03
+2024-03-06,CTR,250,Food and Dining,debit,2024-03
+2024-03-13,Third Wave Coffee,190,Coffee & Snacks,debit,2024-03
+2024-03-30,Chaayos,200,Coffee & Snacks,debit,2024-03
+2024-03-10,Chaayos,140,Coffee & Snacks,debit,2024-03
+2024-03-23,Cafe Coffee Day,290,Coffee & Snacks,debit,2024-03
+2024-03-22,Chaayos,210,Coffee & Snacks,debit,2024-03
+2024-03-05,Blue Tokai,110,Coffee & Snacks,debit,2024-03
+2024-03-10,Blue Tokai,220,Coffee & Snacks,debit,2024-03
+2024-03-31,Starbucks,120,Coffee & Snacks,debit,2024-03
+2024-03-19,Cafe Coffee Day,230,Coffee & Snacks,debit,2024-03
+2024-03-02,Third Wave Coffee,250,Coffee & Snacks,debit,2024-03
+2024-03-02,Starbucks,130,Coffee & Snacks,debit,2024-03
+2024-03-19,Chaayos,240,Coffee & Snacks,debit,2024-03
+2024-03-17,Cafe Coffee Day,200,Coffee & Snacks,debit,2024-03
+2024-03-02,BMTC,300,Transport,debit,2024-03
+2024-03-03,Ola,410,Transport,debit,2024-03
+2024-03-03,BMTC,200,Transport,debit,2024-03
+2024-03-03,Ola,140,Transport,debit,2024-03
+2024-03-13,Uber,130,Transport,debit,2024-03
+2024-03-31,BMTC,140,Transport,debit,2024-03
+2024-03-08,BMTC,210,Transport,debit,2024-03
+2024-03-20,Uber,250,Transport,debit,2024-03
+2024-03-20,Uber,250,Transport,debit,2024-03
+2024-03-14,BMTC,300,Transport,debit,2024-03
+2024-03-19,BMTC,220,Transport,debit,2024-03
+2024-03-11,Rapido,370,Transport,debit,2024-03
+2024-03-07,Rapido,190,Transport,debit,2024-03
+2024-03-08,Rapido,490,Transport,debit,2024-03
+2024-03-13,Ola,280,Transport,debit,2024-03
+2024-03-22,Rapido,130,Transport,debit,2024-03
+2024-03-15,Rapido,110,Transport,debit,2024-03
+2024-03-01,YouTube Premium,210,Subscriptions,debit,2024-03
+2024-03-20,Netflix,200,Subscriptions,debit,2024-03
+2024-03-03,Spotify,210,Subscriptions,debit,2024-03
+2024-03-09,Flipkart,1580,Shopping,debit,2024-03
+2024-03-30,Myntra,1140,Shopping,debit,2024-03
+2024-03-29,Amazon,520,Shopping,debit,2024-03
+2024-03-29,Flipkart,240,Shopping,debit,2024-03
+2024-03-10,PharmEasy,470,Health & Fitness,debit,2024-03
+2024-03-15,Gym Monthly,860,Health & Fitness,debit,2024-03
+2024-03-23,Apollo Pharmacy,660,Health & Fitness,debit,2024-03
+2024-03-26,BESCOM,710,Utilities,debit,2024-03
+2024-03-22,Jio Recharge,930,Utilities,debit,2024-03
+2024-03-30,BESCOM,960,Utilities,debit,2024-03
+2024-03-09,BookMyShow,430,Entertainment,debit,2024-03
+2024-04-01,Salary Credit,65000,Income,credit,2024-04
+2024-04-01,Housing Society,18000,Rent,debit,2024-04
+2024-04-10,More Supermarket,810,Groceries,debit,2024-04
+2024-04-07,Swiggy Instamart,570,Groceries,debit,2024-04
+2024-04-07,Swiggy Instamart,870,Groceries,debit,2024-04
+2024-04-17,D-Mart,910,Groceries,debit,2024-04
+2024-04-09,BigBasket,1020,Groceries,debit,2024-04
+2024-04-03,D-Mart,1010,Groceries,debit,2024-04
+2024-04-27,Swiggy Instamart,520,Groceries,debit,2024-04
+2024-04-02,BigBasket,610,Groceries,debit,2024-04
+2024-04-25,Swiggy,430,Food and Dining,debit,2024-04
+2024-04-21,Meghana Foods,430,Food and Dining,debit,2024-04
+2024-04-06,Truffles,430,Food and Dining,debit,2024-04
+2024-04-15,Brahmin's Coffee Bar,930,Food and Dining,debit,2024-04
+2024-04-23,CTR,440,Food and Dining,debit,2024-04
+2024-04-18,Zomato,520,Food and Dining,debit,2024-04
+2024-04-04,Zomato,490,Food and Dining,debit,2024-04
+2024-04-29,Truffles,450,Food and Dining,debit,2024-04
+2024-04-29,Swiggy,300,Food and Dining,debit,2024-04
+2024-04-18,Zomato,460,Food and Dining,debit,2024-04
+2024-04-27,Meghana Foods,230,Food and Dining,debit,2024-04
+2024-04-19,Brahmin's Coffee Bar,310,Food and Dining,debit,2024-04
+2024-04-14,Blue Tokai,150,Coffee & Snacks,debit,2024-04
+2024-04-02,Third Wave Coffee,180,Coffee & Snacks,debit,2024-04
+2024-04-12,Starbucks,320,Coffee & Snacks,debit,2024-04
+2024-04-29,Third Wave Coffee,70,Coffee & Snacks,debit,2024-04
+2024-04-07,Blue Tokai,220,Coffee & Snacks,debit,2024-04
+2024-04-22,Starbucks,80,Coffee & Snacks,debit,2024-04
+2024-04-12,Cafe Coffee Day,150,Coffee & Snacks,debit,2024-04
+2024-04-29,Chaayos,250,Coffee & Snacks,debit,2024-04
+2024-04-20,Blue Tokai,180,Coffee & Snacks,debit,2024-04
+2024-04-30,Blue Tokai,120,Coffee & Snacks,debit,2024-04
+2024-04-28,Blue Tokai,140,Coffee & Snacks,debit,2024-04
+2024-04-26,Blue Tokai,220,Coffee & Snacks,debit,2024-04
+2024-04-29,Chaayos,140,Coffee & Snacks,debit,2024-04
+2024-04-06,Rapido,240,Transport,debit,2024-04
+2024-04-26,Namma Metro,220,Transport,debit,2024-04
+2024-04-26,Ola,150,Transport,debit,2024-04
+2024-04-09,Ola,430,Transport,debit,2024-04
+2024-04-26,Uber,280,Transport,debit,2024-04
+2024-04-13,Uber,40,Transport,debit,2024-04
+2024-04-28,Namma Metro,240,Transport,debit,2024-04
+2024-04-08,Ola,150,Transport,debit,2024-04
+2024-04-27,Namma Metro,310,Transport,debit,2024-04
+2024-04-12,Rapido,140,Transport,debit,2024-04
+2024-04-27,Ola,210,Transport,debit,2024-04
+2024-04-08,Uber,270,Transport,debit,2024-04
+2024-04-22,Ola,310,Transport,debit,2024-04
+2024-04-13,Rapido,100,Transport,debit,2024-04
+2024-04-09,Uber,190,Transport,debit,2024-04
+2024-04-25,Rapido,170,Transport,debit,2024-04
+2024-04-12,BMTC,150,Transport,debit,2024-04
+2024-04-22,Amazon Prime,240,Subscriptions,debit,2024-04
+2024-04-01,Netflix,210,Subscriptions,debit,2024-04
+2024-04-29,Amazon Prime,170,Subscriptions,debit,2024-04
+2024-04-06,Amazon Prime,220,Subscriptions,debit,2024-04
+2024-04-04,Nykaa,2900,Shopping,debit,2024-04
+2024-04-14,Myntra,2030,Shopping,debit,2024-04
+2024-04-26,Apollo Pharmacy,140,Health & Fitness,debit,2024-04
+2024-04-14,Gym Monthly,450,Health & Fitness,debit,2024-04
+2024-04-17,Cult.fit,980,Health & Fitness,debit,2024-04
+2024-04-13,Gym Monthly,390,Health & Fitness,debit,2024-04
+2024-04-09,BESCOM,970,Utilities,debit,2024-04
+2024-04-14,BookMyShow,930,Entertainment,debit,2024-04
+2024-04-17,PlayStation Store,420,Entertainment,debit,2024-04
+2024-04-22,PVR Cinemas,680,Entertainment,debit,2024-04
+2024-05-01,Salary Credit,65000,Income,credit,2024-05
+2024-05-01,Landlord transfer,18000,Rent,debit,2024-05
+2024-05-31,Swiggy Instamart,600,Groceries,debit,2024-05
+2024-05-20,Swiggy Instamart,750,Groceries,debit,2024-05
+2024-05-22,BigBasket,550,Groceries,debit,2024-05
+2024-05-24,Swiggy Instamart,1130,Groceries,debit,2024-05
+2024-05-17,Swiggy Instamart,510,Groceries,debit,2024-05
+2024-05-22,D-Mart,710,Groceries,debit,2024-05
+2024-05-11,D-Mart,830,Groceries,debit,2024-05
+2024-05-10,Brahmin's Coffee Bar,570,Food and Dining,debit,2024-05
+2024-05-05,Swiggy,130,Food and Dining,debit,2024-05
+2024-05-14,Truffles,520,Food and Dining,debit,2024-05
+2024-05-31,CTR,350,Food and Dining,debit,2024-05
+2024-05-22,Truffles,200,Food and Dining,debit,2024-05
+2024-05-29,Swiggy,420,Food and Dining,debit,2024-05
+2024-05-20,Brahmin's Coffee Bar,380,Food and Dining,debit,2024-05
+2024-05-10,CTR,260,Food and Dining,debit,2024-05
+2024-05-18,Byg Brewski,360,Food and Dining,debit,2024-05
+2024-05-01,Meghana Foods,290,Food and Dining,debit,2024-05
+2024-05-10,Swiggy,370,Food and Dining,debit,2024-05
+2024-05-14,Byg Brewski,450,Food and Dining,debit,2024-05
+2024-05-19,Brahmin's Coffee Bar,590,Food and Dining,debit,2024-05
+2024-05-11,Chaayos,110,Coffee & Snacks,debit,2024-05
+2024-05-15,Chaayos,310,Coffee & Snacks,debit,2024-05
+2024-05-22,Blue Tokai,60,Coffee & Snacks,debit,2024-05
+2024-05-17,Chaayos,170,Coffee & Snacks,debit,2024-05
+2024-05-26,Blue Tokai,220,Coffee & Snacks,debit,2024-05
+2024-05-22,Starbucks,200,Coffee & Snacks,debit,2024-05
+2024-05-10,Cafe Coffee Day,140,Coffee & Snacks,debit,2024-05
+2024-05-22,Cafe Coffee Day,170,Coffee & Snacks,debit,2024-05
+2024-05-11,Starbucks,150,Coffee & Snacks,debit,2024-05
+2024-05-27,Blue Tokai,140,Coffee & Snacks,debit,2024-05
+2024-05-22,Third Wave Coffee,230,Coffee & Snacks,debit,2024-05
+2024-05-08,Blue Tokai,200,Coffee & Snacks,debit,2024-05
+2024-05-05,Starbucks,140,Coffee & Snacks,debit,2024-05
+2024-05-02,Blue Tokai,230,Coffee & Snacks,debit,2024-05
+2024-05-16,Cafe Coffee Day,200,Coffee & Snacks,debit,2024-05
+2024-05-15,Namma Metro,300,Transport,debit,2024-05
+2024-05-29,BMTC,280,Transport,debit,2024-05
+2024-05-07,Namma Metro,140,Transport,debit,2024-05
+2024-05-16,Namma Metro,160,Transport,debit,2024-05
+2024-05-08,Ola,290,Transport,debit,2024-05
+2024-05-21,Uber,280,Transport,debit,2024-05
+2024-05-29,Uber,220,Transport,debit,2024-05
+2024-05-25,Namma Metro,230,Transport,debit,2024-05
+2024-05-08,Ola,350,Transport,debit,2024-05
+2024-05-26,BMTC,160,Transport,debit,2024-05
+2024-05-15,Uber,270,Transport,debit,2024-05
+2024-05-18,Ola,200,Transport,debit,2024-05
+2024-05-30,Uber,200,Transport,debit,2024-05
+2024-05-15,Ola,330,Transport,debit,2024-05
+2024-05-26,Namma Metro,300,Transport,debit,2024-05
+2024-05-22,BMTC,300,Transport,debit,2024-05
+2024-05-18,BMTC,350,Transport,debit,2024-05
+2024-05-31,YouTube Premium,200,Subscriptions,debit,2024-05
+2024-05-20,YouTube Premium,210,Subscriptions,debit,2024-05
+2024-05-27,YouTube Premium,190,Subscriptions,debit,2024-05
+2024-05-29,Spotify,210,Subscriptions,debit,2024-05
+2024-05-28,Meesho,1100,Shopping,debit,2024-05
+2024-05-15,Myntra,1280,Shopping,debit,2024-05
+2024-05-25,Flipkart,1680,Shopping,debit,2024-05
+2024-05-27,Myntra,550,Shopping,debit,2024-05
+2024-05-16,PharmEasy,1230,Health & Fitness,debit,2024-05
+2024-05-09,1mg,300,Health & Fitness,debit,2024-05
+2024-05-03,Apollo Pharmacy,240,Health & Fitness,debit,2024-05
+2024-05-08,Apollo Pharmacy,950,Health & Fitness,debit,2024-05
+2024-05-11,BESCOM,1020,Utilities,debit,2024-05
+2024-05-05,Airtel Broadband,990,Utilities,debit,2024-05
+2024-05-13,PVR Cinemas,890,Entertainment,debit,2024-05
+2024-06-01,Salary Credit,65000,Income,credit,2024-06
+2024-06-01,Housing Society,18000,Rent,debit,2024-06
+2024-06-01,Housing Society,18000,Rent,debit,2024-06
+2024-06-14,Swiggy Instamart,820,Groceries,debit,2024-06
+2024-06-18,D-Mart,660,Groceries,debit,2024-06
+2024-06-14,BigBasket,1000,Groceries,debit,2024-06
+2024-06-07,D-Mart,770,Groceries,debit,2024-06
+2024-06-13,More Supermarket,630,Groceries,debit,2024-06
+2024-06-23,BigBasket,740,Groceries,debit,2024-06
+2024-06-28,More Supermarket,880,Groceries,debit,2024-06
+2024-06-13,D-Mart,690,Groceries,debit,2024-06
+2024-06-12,Meghana Foods,230,Food and Dining,debit,2024-06
+2024-06-25,CTR,390,Food and Dining,debit,2024-06
+2024-06-28,Byg Brewski,390,Food and Dining,debit,2024-06
+2024-06-14,Brahmin's Coffee Bar,270,Food and Dining,debit,2024-06
+2024-06-24,Truffles,280,Food and Dining,debit,2024-06
+2024-06-18,Byg Brewski,380,Food and Dining,debit,2024-06
+2024-06-20,Swiggy,130,Food and Dining,debit,2024-06
+2024-06-16,Swiggy,140,Food and Dining,debit,2024-06
+2024-06-09,CTR,240,Food and Dining,debit,2024-06
+2024-06-16,Zomato,320,Food and Dining,debit,2024-06
+2024-06-13,Meghana Foods,400,Food and Dining,debit,2024-06
+2024-06-22,Chaayos,270,Coffee & Snacks,debit,2024-06
+2024-06-24,Blue Tokai,230,Coffee & Snacks,debit,2024-06
+2024-06-27,Chaayos,170,Coffee & Snacks,debit,2024-06
+2024-06-30,Blue Tokai,180,Coffee & Snacks,debit,2024-06
+2024-06-20,Cafe Coffee Day,120,Coffee & Snacks,debit,2024-06
+2024-06-01,Chaayos,180,Coffee & Snacks,debit,2024-06
+2024-06-19,Cafe Coffee Day,160,Coffee & Snacks,debit,2024-06
+2024-06-22,Starbucks,200,Coffee & Snacks,debit,2024-06
+2024-06-03,Chaayos,130,Coffee & Snacks,debit,2024-06
+2024-06-05,Chaayos,210,Coffee & Snacks,debit,2024-06
+2024-06-06,Starbucks,270,Coffee & Snacks,debit,2024-06
+2024-06-09,Chaayos,170,Coffee & Snacks,debit,2024-06
+2024-06-11,Blue Tokai,200,Coffee & Snacks,debit,2024-06
+2024-06-15,Third Wave Coffee,220,Coffee & Snacks,debit,2024-06
+2024-06-11,Chaayos,160,Coffee & Snacks,debit,2024-06
+2024-06-25,Namma Metro,240,Transport,debit,2024-06
+2024-06-09,Uber,220,Transport,debit,2024-06
+2024-06-16,Uber,230,Transport,debit,2024-06
+2024-06-24,BMTC,140,Transport,debit,2024-06
+2024-06-02,Rapido,220,Transport,debit,2024-06
+2024-06-08,Uber,270,Transport,debit,2024-06
+2024-06-25,Uber,370,Transport,debit,2024-06
+2024-06-25,Uber,320,Transport,debit,2024-06
+2024-06-08,Ola,440,Transport,debit,2024-06
+2024-06-27,Uber,140,Transport,debit,2024-06
+2024-06-20,Ola,310,Transport,debit,2024-06
+2024-06-08,Ola,240,Transport,debit,2024-06
+2024-06-16,Uber,440,Transport,debit,2024-06
+2024-06-19,Ola,140,Transport,debit,2024-06
+2024-06-15,Rapido,140,Transport,debit,2024-06
+2024-06-25,Rapido,160,Transport,debit,2024-06
+2024-06-06,BMTC,40,Transport,debit,2024-06
+2024-06-20,Uber,170,Transport,debit,2024-06
+2024-06-10,Netflix,180,Subscriptions,debit,2024-06
+2024-06-19,Netflix,200,Subscriptions,debit,2024-06
+2024-06-30,Amazon Prime,210,Subscriptions,debit,2024-06
+2024-06-22,Meesho,2700,Shopping,debit,2024-06
+2024-06-13,Flipkart,1960,Shopping,debit,2024-06
+2024-06-03,Nykaa,740,Shopping,debit,2024-06
+2024-06-23,Flipkart,480,Shopping,debit,2024-06
+2024-06-23,Apollo Pharmacy,750,Health & Fitness,debit,2024-06
+2024-06-28,Gym Monthly,200,Health & Fitness,debit,2024-06
+2024-06-26,BESCOM,1170,Utilities,debit,2024-06
+2024-06-18,Steam,1050,Entertainment,debit,2024-06
+2024-06-22,Wonderla,560,Entertainment,debit,2024-06
+2024-07-01,Salary Credit,65000,Income,credit,2024-07
+2024-07-01,Landlord transfer,18000,Rent,debit,2024-07
+2024-07-28,D-Mart,1070,Groceries,debit,2024-07
+2024-07-27,D-Mart,780,Groceries,debit,2024-07
+2024-07-04,D-Mart,1050,Groceries,debit,2024-07
+2024-07-31,Swiggy Instamart,480,Groceries,debit,2024-07
+2024-07-21,D-Mart,680,Groceries,debit,2024-07
+2024-07-23,Zepto,800,Groceries,debit,2024-07
+2024-07-14,Zepto,810,Groceries,debit,2024-07
+2024-07-17,Truffles,280,Food and Dining,debit,2024-07
+2024-07-09,Brahmin's Coffee Bar,440,Food and Dining,debit,2024-07
+2024-07-26,Brahmin's Coffee Bar,190,Food and Dining,debit,2024-07
+2024-07-25,CTR,330,Food and Dining,debit,2024-07
+2024-07-15,CTR,370,Food and Dining,debit,2024-07
+2024-07-27,Truffles,430,Food and Dining,debit,2024-07
+2024-07-19,Meghana Foods,460,Food and Dining,debit,2024-07
+2024-07-11,Byg Brewski,180,Food and Dining,debit,2024-07
+2024-07-08,Byg Brewski,120,Food and Dining,debit,2024-07
+2024-07-30,Zomato,540,Food and Dining,debit,2024-07
+2024-07-09,CTR,400,Food and Dining,debit,2024-07
+2024-07-08,Byg Brewski,240,Food and Dining,debit,2024-07
+2024-07-15,Brahmin's Coffee Bar,580,Food and Dining,debit,2024-07
+2024-07-22,Chaayos,190,Coffee & Snacks,debit,2024-07
+2024-07-11,Starbucks,250,Coffee & Snacks,debit,2024-07
+2024-07-16,Third Wave Coffee,180,Coffee & Snacks,debit,2024-07
+2024-07-06,Chaayos,300,Coffee & Snacks,debit,2024-07
+2024-07-07,Third Wave Coffee,290,Coffee & Snacks,debit,2024-07
+2024-07-26,Third Wave Coffee,170,Coffee & Snacks,debit,2024-07
+2024-07-11,Third Wave Coffee,240,Coffee & Snacks,debit,2024-07
+2024-07-29,Cafe Coffee Day,220,Coffee & Snacks,debit,2024-07
+2024-07-23,Third Wave Coffee,260,Coffee & Snacks,debit,2024-07
+2024-07-18,Starbucks,120,Coffee & Snacks,debit,2024-07
+2024-07-17,Blue Tokai,220,Coffee & Snacks,debit,2024-07
+2024-07-03,Blue Tokai,240,Coffee & Snacks,debit,2024-07
+2024-07-24,Chaayos,70,Coffee & Snacks,debit,2024-07
+2024-07-16,Cafe Coffee Day,110,Coffee & Snacks,debit,2024-07
+2024-07-25,Blue Tokai,60,Coffee & Snacks,debit,2024-07
+2024-07-16,Namma Metro,190,Transport,debit,2024-07
+2024-07-15,Uber,290,Transport,debit,2024-07
+2024-07-03,Rapido,370,Transport,debit,2024-07
+2024-07-08,Namma Metro,230,Transport,debit,2024-07
+2024-07-23,Ola,380,Transport,debit,2024-07
+2024-07-10,BMTC,80,Transport,debit,2024-07
+2024-07-12,Namma Metro,50,Transport,debit,2024-07
+2024-07-18,BMTC,210,Transport,debit,2024-07
+2024-07-12,Namma Metro,260,Transport,debit,2024-07
+2024-07-24,BMTC,220,Transport,debit,2024-07
+2024-07-11,Rapido,40,Transport,debit,2024-07
+2024-07-23,Namma Metro,210,Transport,debit,2024-07
+2024-07-09,Rapido,90,Transport,debit,2024-07
+2024-07-09,Ola,290,Transport,debit,2024-07
+2024-07-04,Ola,260,Transport,debit,2024-07
+2024-07-11,Uber,130,Transport,debit,2024-07
+2024-07-24,BMTC,170,Transport,debit,2024-07
+2024-07-31,Ola,110,Transport,debit,2024-07
+2024-07-07,Ola,210,Transport,debit,2024-07
+2024-07-16,Amazon Prime,220,Subscriptions,debit,2024-07
+2024-07-24,Amazon Prime,180,Subscriptions,debit,2024-07
+2024-07-04,Spotify,210,Subscriptions,debit,2024-07
+2024-07-10,Spotify,190,Subscriptions,debit,2024-07
+2024-07-12,Spotify,180,Subscriptions,debit,2024-07
+2024-07-01,Nykaa,1110,Shopping,debit,2024-07
+2024-07-05,Myntra,370,Shopping,debit,2024-07
+2024-07-02,Amazon,760,Shopping,debit,2024-07
+2024-07-10,PharmEasy,240,Health & Fitness,debit,2024-07
+2024-07-21,1mg,1190,Health & Fitness,debit,2024-07
+2024-07-04,Cult.fit,610,Health & Fitness,debit,2024-07
+2024-07-19,Apollo Pharmacy,390,Health & Fitness,debit,2024-07
+2024-07-16,BWSSB,930,Utilities,debit,2024-07
+2024-07-11,Airtel Broadband,880,Utilities,debit,2024-07
+2024-07-09,Steam,630,Entertainment,debit,2024-07
+2024-08-01,Salary Credit,65000,Income,credit,2024-08
+2024-08-01,Housing Society,18000,Rent,debit,2024-08
+2024-08-16,BigBasket,950,Groceries,debit,2024-08
+2024-08-19,BigBasket,690,Groceries,debit,2024-08
+2024-08-05,Zepto,680,Groceries,debit,2024-08
+2024-08-26,More Supermarket,740,Groceries,debit,2024-08
+2024-08-31,Swiggy Instamart,340,Groceries,debit,2024-08
+2024-08-03,Zepto,500,Groceries,debit,2024-08
+2024-08-04,More Supermarket,1070,Groceries,debit,2024-08
+2024-08-25,D-Mart,1130,Groceries,debit,2024-08
+2024-08-20,Byg Brewski,310,Food and Dining,debit,2024-08
+2024-08-20,Swiggy,440,Food and Dining,debit,2024-08
+2024-08-25,Brahmin's Coffee Bar,400,Food and Dining,debit,2024-08
+2024-08-13,CTR,810,Food and Dining,debit,2024-08
+2024-08-30,CTR,520,Food and Dining,debit,2024-08
+2024-08-10,Byg Brewski,330,Food and Dining,debit,2024-08
+2024-08-19,CTR,210,Food and Dining,debit,2024-08
+2024-08-10,Brahmin's Coffee Bar,110,Food and Dining,debit,2024-08
+2024-08-20,Zomato,380,Food and Dining,debit,2024-08
+2024-08-20,Truffles,240,Food and Dining,debit,2024-08
+2024-08-04,Byg Brewski,140,Food and Dining,debit,2024-08
+2024-08-07,Truffles,250,Food and Dining,debit,2024-08
+2024-08-07,Meghana Foods,190,Food and Dining,debit,2024-08
+2024-08-03,Blue Tokai,280,Coffee & Snacks,debit,2024-08
+2024-08-08,Blue Tokai,230,Coffee & Snacks,debit,2024-08
+2024-08-18,Starbucks,180,Coffee & Snacks,debit,2024-08
+2024-08-06,Starbucks,270,Coffee & Snacks,debit,2024-08
+2024-08-14,Chaayos,180,Coffee & Snacks,debit,2024-08
+2024-08-23,Cafe Coffee Day,130,Coffee & Snacks,debit,2024-08
+2024-08-16,Third Wave Coffee,270,Coffee & Snacks,debit,2024-08
+2024-08-02,Blue Tokai,210,Coffee & Snacks,debit,2024-08
+2024-08-10,Third Wave Coffee,120,Coffee & Snacks,debit,2024-08
+2024-08-23,Chaayos,170,Coffee & Snacks,debit,2024-08
+2024-08-03,Blue Tokai,130,Coffee & Snacks,debit,2024-08
+2024-08-30,Third Wave Coffee,100,Coffee & Snacks,debit,2024-08
+2024-08-26,Cafe Coffee Day,240,Coffee & Snacks,debit,2024-08
+2024-08-22,Blue Tokai,290,Coffee & Snacks,debit,2024-08
+2024-08-14,Starbucks,100,Coffee & Snacks,debit,2024-08
+2024-08-08,Ola,280,Transport,debit,2024-08
+2024-08-30,Rapido,150,Transport,debit,2024-08
+2024-08-27,Ola,170,Transport,debit,2024-08
+2024-08-03,Uber,160,Transport,debit,2024-08
+2024-08-06,Rapido,130,Transport,debit,2024-08
+2024-08-20,BMTC,220,Transport,debit,2024-08
+2024-08-30,Rapido,140,Transport,debit,2024-08
+2024-08-15,Uber,250,Transport,debit,2024-08
+2024-08-15,Rapido,210,Transport,debit,2024-08
+2024-08-23,Namma Metro,200,Transport,debit,2024-08
+2024-08-31,Rapido,130,Transport,debit,2024-08
+2024-08-17,BMTC,160,Transport,debit,2024-08
+2024-08-16,Namma Metro,300,Transport,debit,2024-08
+2024-08-03,BMTC,270,Transport,debit,2024-08
+2024-08-02,Namma Metro,120,Transport,debit,2024-08
+2024-08-24,Rapido,230,Transport,debit,2024-08
+2024-08-20,Rapido,300,Transport,debit,2024-08
+2024-08-01,Uber,50,Transport,debit,2024-08
+2024-08-08,BMTC,270,Transport,debit,2024-08
+2024-08-31,Netflix,190,Subscriptions,debit,2024-08
+2024-08-25,Amazon Prime,210,Subscriptions,debit,2024-08
+2024-08-19,Netflix,180,Subscriptions,debit,2024-08
+2024-08-25,Spotify,160,Subscriptions,debit,2024-08
+2024-08-16,YouTube Premium,170,Subscriptions,debit,2024-08
+2024-08-06,Nykaa,1240,Shopping,debit,2024-08
+2024-08-14,Meesho,1410,Shopping,debit,2024-08
+2024-08-03,Meesho,480,Shopping,debit,2024-08
+2024-08-14,Apollo Pharmacy,790,Health & Fitness,debit,2024-08
+2024-08-11,Cult.fit,120,Health & Fitness,debit,2024-08
+2024-08-28,PharmEasy,580,Health & Fitness,debit,2024-08
+2024-08-14,BWSSB,720,Utilities,debit,2024-08
+2024-08-10,BWSSB,800,Utilities,debit,2024-08
+2024-08-02,Steam,710,Entertainment,debit,2024-08
+2024-08-03,Wonderla,440,Entertainment,debit,2024-08
+2024-08-09,Wonderla,580,Entertainment,debit,2024-08
+2024-09-01,Salary Credit,65000,Income,credit,2024-09
+2024-09-01,Landlord transfer,18000,Rent,debit,2024-09
+2024-09-27,BigBasket,680,Groceries,debit,2024-09
+2024-09-22,More Supermarket,970,Groceries,debit,2024-09
+2024-09-15,D-Mart,570,Groceries,debit,2024-09
+2024-09-02,Zepto,910,Groceries,debit,2024-09
+2024-09-17,Swiggy Instamart,1090,Groceries,debit,2024-09
+2024-09-20,D-Mart,310,Groceries,debit,2024-09
+2024-09-21,D-Mart,640,Groceries,debit,2024-09
+2024-09-25,BigBasket,920,Groceries,debit,2024-09
+2024-09-07,Swiggy Instamart,760,Groceries,debit,2024-09
+2024-09-05,Meghana Foods,410,Food and Dining,debit,2024-09
+2024-09-15,Truffles,260,Food and Dining,debit,2024-09
+2024-09-16,Zomato,360,Food and Dining,debit,2024-09
+2024-09-01,Truffles,330,Food and Dining,debit,2024-09
+2024-09-20,Byg Brewski,530,Food and Dining,debit,2024-09
+2024-09-08,Truffles,390,Food and Dining,debit,2024-09
+2024-09-06,Meghana Foods,400,Food and Dining,debit,2024-09
+2024-09-18,Zomato,290,Food and Dining,debit,2024-09
+2024-09-18,CTR,280,Food and Dining,debit,2024-09
+2024-09-03,Swiggy,290,Food and Dining,debit,2024-09
+2024-09-27,Zomato,410,Food and Dining,debit,2024-09
+2024-09-15,Zomato,290,Food and Dining,debit,2024-09
+2024-09-21,Byg Brewski,390,Food and Dining,debit,2024-09
+2024-09-16,Third Wave Coffee,300,Coffee & Snacks,debit,2024-09
+2024-09-17,Third Wave Coffee,230,Coffee & Snacks,debit,2024-09
+2024-09-14,Chaayos,160,Coffee & Snacks,debit,2024-09
+2024-09-16,Blue Tokai,250,Coffee & Snacks,debit,2024-09
+2024-09-15,Cafe Coffee Day,160,Coffee & Snacks,debit,2024-09
+2024-09-05,Chaayos,60,Coffee & Snacks,debit,2024-09
+2024-09-07,Cafe Coffee Day,120,Coffee & Snacks,debit,2024-09
+2024-09-17,Blue Tokai,70,Coffee & Snacks,debit,2024-09
+2024-09-28,Starbucks,160,Coffee & Snacks,debit,2024-09
+2024-09-09,Chaayos,180,Coffee & Snacks,debit,2024-09
+2024-09-11,Cafe Coffee Day,280,Coffee & Snacks,debit,2024-09
+2024-09-09,Starbucks,200,Coffee & Snacks,debit,2024-09
+2024-09-10,Third Wave Coffee,170,Coffee & Snacks,debit,2024-09
+2024-09-19,Namma Metro,300,Transport,debit,2024-09
+2024-09-28,Ola,40,Transport,debit,2024-09
+2024-09-15,BMTC,240,Transport,debit,2024-09
+2024-09-16,Rapido,300,Transport,debit,2024-09
+2024-09-11,BMTC,70,Transport,debit,2024-09
+2024-09-25,BMTC,330,Transport,debit,2024-09
+2024-09-13,Namma Metro,250,Transport,debit,2024-09
+2024-09-30,Rapido,180,Transport,debit,2024-09
+2024-09-28,Ola,280,Transport,debit,2024-09
+2024-09-23,Ola,450,Transport,debit,2024-09
+2024-09-19,Namma Metro,240,Transport,debit,2024-09
+2024-09-08,Namma Metro,240,Transport,debit,2024-09
+2024-09-02,Rapido,170,Transport,debit,2024-09
+2024-09-24,Namma Metro,140,Transport,debit,2024-09
+2024-09-23,Namma Metro,300,Transport,debit,2024-09
+2024-09-13,Ola,130,Transport,debit,2024-09
+2024-09-16,Uber,230,Transport,debit,2024-09
+2024-09-05,BMTC,170,Transport,debit,2024-09
+2024-09-19,Rapido,270,Transport,debit,2024-09
+2024-09-28,YouTube Premium,210,Subscriptions,debit,2024-09
+2024-09-04,YouTube Premium,220,Subscriptions,debit,2024-09
+2024-09-01,Spotify,190,Subscriptions,debit,2024-09
+2024-09-28,Flipkart,980,Shopping,debit,2024-09
+2024-09-03,Meesho,420,Shopping,debit,2024-09
+2024-09-26,Myntra,840,Shopping,debit,2024-09
+2024-09-20,1mg,710,Health & Fitness,debit,2024-09
+2024-09-21,Cult.fit,830,Health & Fitness,debit,2024-09
+2024-09-28,Apollo Pharmacy,320,Health & Fitness,debit,2024-09
+2024-09-28,BWSSB,1030,Utilities,debit,2024-09
+2024-09-11,BWSSB,1100,Utilities,debit,2024-09
+2024-09-28,BESCOM,960,Utilities,debit,2024-09
+2024-09-03,PVR Cinemas,1260,Entertainment,debit,2024-09
+2024-09-21,Wonderla,470,Entertainment,debit,2024-09
+2024-09-08,BookMyShow,330,Entertainment,debit,2024-09
+2024-10-01,Salary Credit,65000,Income,credit,2024-10
+2024-10-01,Housing Society,18000,Rent,debit,2024-10
+2024-10-23,BigBasket,1100,Groceries,debit,2024-10
+2024-10-15,Zepto,930,Groceries,debit,2024-10
+2024-10-23,Swiggy Instamart,790,Groceries,debit,2024-10
+2024-10-29,BigBasket,860,Groceries,debit,2024-10
+2024-10-02,Swiggy Instamart,570,Groceries,debit,2024-10
+2024-10-26,BigBasket,1290,Groceries,debit,2024-10
+2024-10-10,Swiggy Instamart,830,Groceries,debit,2024-10
+2024-10-12,D-Mart,820,Groceries,debit,2024-10
+2024-10-05,Zepto,950,Groceries,debit,2024-10
+2024-10-14,Brahmin's Coffee Bar,420,Food and Dining,debit,2024-10
+2024-10-22,Byg Brewski,380,Food and Dining,debit,2024-10
+2024-10-06,Swiggy,230,Food and Dining,debit,2024-10
+2024-10-06,Zomato,420,Food and Dining,debit,2024-10
+2024-10-20,Byg Brewski,630,Food and Dining,debit,2024-10
+2024-10-13,Brahmin's Coffee Bar,550,Food and Dining,debit,2024-10
+2024-10-22,Swiggy,590,Food and Dining,debit,2024-10
+2024-10-16,Brahmin's Coffee Bar,270,Food and Dining,debit,2024-10
+2024-10-05,Swiggy,200,Food and Dining,debit,2024-10
+2024-10-15,Truffles,330,Food and Dining,debit,2024-10
+2024-10-09,CTR,360,Food and Dining,debit,2024-10
+2024-10-09,Truffles,510,Food and Dining,debit,2024-10
+2024-10-01,Byg Brewski,100,Food and Dining,debit,2024-10
+2024-10-29,Third Wave Coffee,270,Coffee & Snacks,debit,2024-10
+2024-10-22,Cafe Coffee Day,170,Coffee & Snacks,debit,2024-10
+2024-10-06,Starbucks,150,Coffee & Snacks,debit,2024-10
+2024-10-15,Third Wave Coffee,120,Coffee & Snacks,debit,2024-10
+2024-10-19,Third Wave Coffee,80,Coffee & Snacks,debit,2024-10
+2024-10-21,Chaayos,230,Coffee & Snacks,debit,2024-10
+2024-10-23,Third Wave Coffee,180,Coffee & Snacks,debit,2024-10
+2024-10-15,Third Wave Coffee,100,Coffee & Snacks,debit,2024-10
+2024-10-07,Chaayos,100,Coffee & Snacks,debit,2024-10
+2024-10-28,Chaayos,160,Coffee & Snacks,debit,2024-10
+2024-10-04,Blue Tokai,280,Coffee & Snacks,debit,2024-10
+2024-10-13,Cafe Coffee Day,160,Coffee & Snacks,debit,2024-10
+2024-10-12,Cafe Coffee Day,90,Coffee & Snacks,debit,2024-10
+2024-10-10,Third Wave Coffee,170,Coffee & Snacks,debit,2024-10
+2024-10-27,Namma Metro,190,Transport,debit,2024-10
+2024-10-09,Uber,40,Transport,debit,2024-10
+2024-10-19,Uber,210,Transport,debit,2024-10
+2024-10-30,BMTC,200,Transport,debit,2024-10
+2024-10-24,Namma Metro,290,Transport,debit,2024-10
+2024-10-27,Rapido,400,Transport,debit,2024-10
+2024-10-25,Ola,330,Transport,debit,2024-10
+2024-10-20,Rapido,190,Transport,debit,2024-10
+2024-10-08,Ola,110,Transport,debit,2024-10
+2024-10-20,Rapido,480,Transport,debit,2024-10
+2024-10-22,Ola,230,Transport,debit,2024-10
+2024-10-21,Uber,220,Transport,debit,2024-10
+2024-10-29,Uber,220,Transport,debit,2024-10
+2024-10-10,Namma Metro,240,Transport,debit,2024-10
+2024-10-02,BMTC,210,Transport,debit,2024-10
+2024-10-12,Ola,160,Transport,debit,2024-10
+2024-10-03,Rapido,170,Transport,debit,2024-10
+2024-10-24,YouTube Premium,200,Subscriptions,debit,2024-10
+2024-10-06,Spotify,190,Subscriptions,debit,2024-10
+2024-10-05,Amazon Prime,190,Subscriptions,debit,2024-10
+2024-10-17,Amazon Prime,200,Subscriptions,debit,2024-10
+2024-10-09,Meesho,1000,Shopping,debit,2024-10
+2024-10-31,Myntra,2400,Shopping,debit,2024-10
+2024-10-28,Apollo Pharmacy,120,Health & Fitness,debit,2024-10
+2024-10-26,Cult.fit,930,Health & Fitness,debit,2024-10
+2024-10-15,Cult.fit,970,Health & Fitness,debit,2024-10
+2024-10-05,PharmEasy,120,Health & Fitness,debit,2024-10
+2024-10-24,BWSSB,850,Utilities,debit,2024-10
+2024-10-31,Jio Recharge,840,Utilities,debit,2024-10
+2024-10-03,BWSSB,690,Utilities,debit,2024-10
+2024-10-09,PlayStation Store,470,Entertainment,debit,2024-10
+2024-11-01,Salary Credit,65000,Income,credit,2024-11
+2024-11-01,Landlord transfer,18000,Rent,debit,2024-11
+2024-11-22,Swiggy Instamart,1150,Groceries,debit,2024-11
+2024-11-19,D-Mart,990,Groceries,debit,2024-11
+2024-11-27,Swiggy Instamart,1050,Groceries,debit,2024-11
+2024-11-04,Zepto,940,Groceries,debit,2024-11
+2024-11-16,BigBasket,570,Groceries,debit,2024-11
+2024-11-20,More Supermarket,700,Groceries,debit,2024-11
+2024-11-11,More Supermarket,900,Groceries,debit,2024-11
+2024-11-08,BigBasket,560,Groceries,debit,2024-11
+2024-11-27,CTR,460,Food and Dining,debit,2024-11
+2024-11-30,Truffles,310,Food and Dining,debit,2024-11
+2024-11-10,Truffles,290,Food and Dining,debit,2024-11
+2024-11-14,Zomato,460,Food and Dining,debit,2024-11
+2024-11-05,Zomato,420,Food and Dining,debit,2024-11
+2024-11-02,Meghana Foods,300,Food and Dining,debit,2024-11
+2024-11-16,Zomato,520,Food and Dining,debit,2024-11
+2024-11-04,Swiggy,190,Food and Dining,debit,2024-11
+2024-11-29,Brahmin's Coffee Bar,440,Food and Dining,debit,2024-11
+2024-11-05,CTR,440,Food and Dining,debit,2024-11
+2024-11-15,Meghana Foods,300,Food and Dining,debit,2024-11
+2024-11-22,Truffles,400,Food and Dining,debit,2024-11
+2024-11-23,Brahmin's Coffee Bar,160,Food and Dining,debit,2024-11
+2024-11-19,Blue Tokai,240,Coffee & Snacks,debit,2024-11
+2024-11-29,Chaayos,170,Coffee & Snacks,debit,2024-11
+2024-11-21,Starbucks,150,Coffee & Snacks,debit,2024-11
+2024-11-27,Chaayos,240,Coffee & Snacks,debit,2024-11
+2024-11-20,Chaayos,140,Coffee & Snacks,debit,2024-11
+2024-11-09,Starbucks,100,Coffee & Snacks,debit,2024-11
+2024-11-23,Third Wave Coffee,90,Coffee & Snacks,debit,2024-11
+2024-11-07,Chaayos,220,Coffee & Snacks,debit,2024-11
+2024-11-15,Blue Tokai,100,Coffee & Snacks,debit,2024-11
+2024-11-28,Third Wave Coffee,290,Coffee & Snacks,debit,2024-11
+2024-11-04,Third Wave Coffee,60,Coffee & Snacks,debit,2024-11
+2024-11-18,Third Wave Coffee,280,Coffee & Snacks,debit,2024-11
+2024-11-02,Chaayos,190,Coffee & Snacks,debit,2024-11
+2024-11-09,Blue Tokai,170,Coffee & Snacks,debit,2024-11
+2024-11-28,Namma Metro,170,Transport,debit,2024-11
+2024-11-03,Ola,260,Transport,debit,2024-11
+2024-11-21,BMTC,220,Transport,debit,2024-11
+2024-11-01,Uber,330,Transport,debit,2024-11
+2024-11-26,Rapido,230,Transport,debit,2024-11
+2024-11-08,Ola,240,Transport,debit,2024-11
+2024-11-26,BMTC,180,Transport,debit,2024-11
+2024-11-07,Uber,210,Transport,debit,2024-11
+2024-11-27,BMTC,250,Transport,debit,2024-11
+2024-11-07,BMTC,50,Transport,debit,2024-11
+2024-11-07,Ola,90,Transport,debit,2024-11
+2024-11-11,Ola,290,Transport,debit,2024-11
+2024-11-26,BMTC,240,Transport,debit,2024-11
+2024-11-01,Rapido,200,Transport,debit,2024-11
+2024-11-28,Ola,220,Transport,debit,2024-11
+2024-11-05,BMTC,250,Transport,debit,2024-11
+2024-11-09,Ola,170,Transport,debit,2024-11
+2024-11-22,Netflix,180,Subscriptions,debit,2024-11
+2024-11-05,Netflix,200,Subscriptions,debit,2024-11
+2024-11-12,Spotify,180,Subscriptions,debit,2024-11
+2024-11-11,Amazon,1530,Shopping,debit,2024-11
+2024-11-06,Myntra,240,Shopping,debit,2024-11
+2024-11-02,Flipkart,2020,Shopping,debit,2024-11
+2024-11-24,Meesho,1580,Shopping,debit,2024-11
+2024-11-04,Cult.fit,680,Health & Fitness,debit,2024-11
+2024-11-16,1mg,890,Health & Fitness,debit,2024-11
+2024-11-25,Apollo Pharmacy,1100,Health & Fitness,debit,2024-11
+2024-11-17,Gym Monthly,900,Health & Fitness,debit,2024-11
+2024-11-15,Airtel Broadband,620,Utilities,debit,2024-11
+2024-11-02,PlayStation Store,320,Entertainment,debit,2024-11
+2024-11-10,Steam,510,Entertainment,debit,2024-11
+2024-11-21,BookMyShow,710,Entertainment,debit,2024-11
+2024-12-01,Salary Credit,65000,Income,credit,2024-12
+2024-12-01,Landlord transfer,18000,Rent,debit,2024-12
+2024-12-14,BigBasket,650,Groceries,debit,2024-12
+2024-12-16,D-Mart,840,Groceries,debit,2024-12
+2024-12-03,BigBasket,650,Groceries,debit,2024-12
+2024-12-11,More Supermarket,680,Groceries,debit,2024-12
+2024-12-05,BigBasket,520,Groceries,debit,2024-12
+2024-12-05,Swiggy Instamart,620,Groceries,debit,2024-12
+2024-12-20,More Supermarket,530,Groceries,debit,2024-12
+2024-12-18,Swiggy Instamart,600,Groceries,debit,2024-12
+2024-12-20,Brahmin's Coffee Bar,510,Food and Dining,debit,2024-12
+2024-12-10,CTR,210,Food and Dining,debit,2024-12
+2024-12-17,Brahmin's Coffee Bar,740,Food and Dining,debit,2024-12
+2024-12-14,Zomato,420,Food and Dining,debit,2024-12
+2024-12-26,Truffles,380,Food and Dining,debit,2024-12
+2024-12-04,Byg Brewski,220,Food and Dining,debit,2024-12
+2024-12-21,Truffles,460,Food and Dining,debit,2024-12
+2024-12-29,Byg Brewski,260,Food and Dining,debit,2024-12
+2024-12-18,Truffles,370,Food and Dining,debit,2024-12
+2024-12-28,Swiggy,730,Food and Dining,debit,2024-12
+2024-12-14,CTR,340,Food and Dining,debit,2024-12
+2024-12-29,Swiggy,520,Food and Dining,debit,2024-12
+2024-12-11,Chaayos,140,Coffee & Snacks,debit,2024-12
+2024-12-13,Chaayos,180,Coffee & Snacks,debit,2024-12
+2024-12-24,Starbucks,290,Coffee & Snacks,debit,2024-12
+2024-12-11,Chaayos,140,Coffee & Snacks,debit,2024-12
+2024-12-11,Third Wave Coffee,290,Coffee & Snacks,debit,2024-12
+2024-12-12,Blue Tokai,220,Coffee & Snacks,debit,2024-12
+2024-12-22,Chaayos,150,Coffee & Snacks,debit,2024-12
+2024-12-03,Starbucks,220,Coffee & Snacks,debit,2024-12
+2024-12-27,Starbucks,240,Coffee & Snacks,debit,2024-12
+2024-12-03,Chaayos,220,Coffee & Snacks,debit,2024-12
+2024-12-04,Third Wave Coffee,90,Coffee & Snacks,debit,2024-12
+2024-12-26,Blue Tokai,140,Coffee & Snacks,debit,2024-12
+2024-12-18,Starbucks,170,Coffee & Snacks,debit,2024-12
+2024-12-19,Cafe Coffee Day,180,Coffee & Snacks,debit,2024-12
+2024-12-11,Uber,280,Transport,debit,2024-12
+2024-12-14,Rapido,240,Transport,debit,2024-12
+2024-12-28,Namma Metro,90,Transport,debit,2024-12
+2024-12-28,Uber,260,Transport,debit,2024-12
+2024-12-31,Rapido,280,Transport,debit,2024-12
+2024-12-20,Rapido,280,Transport,debit,2024-12
+2024-12-12,Uber,330,Transport,debit,2024-12
+2024-12-19,BMTC,300,Transport,debit,2024-12
+2024-12-07,Ola,270,Transport,debit,2024-12
+2024-12-22,Namma Metro,210,Transport,debit,2024-12
+2024-12-08,Uber,50,Transport,debit,2024-12
+2024-12-12,BMTC,260,Transport,debit,2024-12
+2024-12-12,Uber,240,Transport,debit,2024-12
+2024-12-25,Rapido,250,Transport,debit,2024-12
+2024-12-19,Ola,90,Transport,debit,2024-12
+2024-12-26,Namma Metro,110,Transport,debit,2024-12
+2024-12-28,BMTC,330,Transport,debit,2024-12
+2024-12-25,BMTC,220,Transport,debit,2024-12
+2024-12-20,BMTC,290,Transport,debit,2024-12
+2024-12-20,Amazon Prime,200,Subscriptions,debit,2024-12
+2024-12-01,Spotify,200,Subscriptions,debit,2024-12
+2024-12-09,Amazon Prime,220,Subscriptions,debit,2024-12
+2024-12-12,Amazon,790,Shopping,debit,2024-12
+2024-12-06,Flipkart,1280,Shopping,debit,2024-12
+2024-12-19,Meesho,830,Shopping,debit,2024-12
+2024-12-05,Cult.fit,470,Health & Fitness,debit,2024-12
+2024-12-03,Gym Monthly,510,Health & Fitness,debit,2024-12
+2024-12-13,BWSSB,930,Utilities,debit,2024-12
+2024-12-11,PVR Cinemas,560,Entertainment,debit,2024-12
+2024-12-12,Wonderla,1080,Entertainment,debit,2024-12
